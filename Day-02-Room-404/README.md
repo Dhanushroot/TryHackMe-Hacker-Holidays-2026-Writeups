@@ -339,7 +339,6 @@ Day-02-Room-404/
 └── images/
     ├── homepage.png
     ├── nmap.png
-    ├── gobuster.png
     ├── git-directory.png
     ├── git-dumper.png
     └── readme.png
