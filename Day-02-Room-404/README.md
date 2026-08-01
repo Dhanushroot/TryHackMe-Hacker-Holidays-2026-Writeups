@@ -133,10 +133,6 @@ gobuster dir \
 
 Gobuster confirmed that the `.git` directory was publicly accessible.
 
-📸 **Screenshot**
-
-![Gobuster](images/gobuster.png)
-
 ---
 
 # 🚨 Vulnerability Discovery
@@ -362,7 +358,7 @@ Day-02-Room-404/
 
 # 👨‍💻 Author
 
-**Tharun**
+**DHANUSH**
 
 Cybersecurity Enthusiast | CTF Player | Penetration Testing Learner
 
